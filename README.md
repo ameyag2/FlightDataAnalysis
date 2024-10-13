@@ -4,6 +4,10 @@
 This project leverages **Tableau** to build interactive dashboards for analyzing American flight data. It provides critical insights into flight delay patterns and passenger demographics, helping enhance operational efficiency and support data-driven decision-making.
 
 ---
+Screenshots
+![Dashboard 1](https://github.com/user-attachments/assets/4109326a-ce3c-48cf-8e56-13ff5e352111)
+
+---
 
 ## 🚀 **Project Overview**
 
